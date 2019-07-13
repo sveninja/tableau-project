@@ -1,7 +1,6 @@
 # Project: Business Intelligence with Tableau
 
 ## Dataset
-dsfaf
 
 Data for this project are contained in the data folder. The data set was derived from the Federal Aviation Administration (FAA) website (https://wildlife.faa.gov/) as a .numbers file. It deals with wildlife strikes to airplanes in the United States between 2001 and 2015.
 
